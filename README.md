@@ -1,7 +1,7 @@
 # Aulas De Termux
-Esse painel vai ensinar iniciantes a gerenciar seus arquivos no termux e começar a usar o termux no seu dia a dia como uma ferramenta para criar e execultar seus programas e arquivos de txt.
+> Esse painel vai ensinar iniciantes a gerenciar seus arquivos no termux e começar a usar o termux no seu dia a dia como uma ferramenta para criar e execultar seus programas e arquivos de txt.
 Vou mostrar tambem como mover os arquivos criados no termux para o SD para ultilizar como quiser...
-# Modo de instalação
+## Modo de instalação
 
 - apt update -y
 - apt upgrade -y
